@@ -97,7 +97,7 @@
 
 
 
-# 3 - ML Foundations
+# 4 - ML Foundations
 
 ### Table des Modules pour le Cours ML Foundations
 
