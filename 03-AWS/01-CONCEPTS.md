@@ -1,22 +1,23 @@
 # PLAN
-[Architecture](#01---architecture)
 
-[DÉVELOPPEUR](#02---DÉVELOPPEUR)
+# PLAN
 
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-[Architecture Course Plan](#01---architecture)
-# 02 - DÉVELOPPEUR
-# 03 - BIG DATA 
-# 04 - ML FOUNDATIONS
-# 05 - NLP
-# 06 - PROJET WEB 2
-# 07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS
-# 08 - PROJET SÉCURITÉ
+[01 - Architecture](#01---architecture)
+
+[02 - DÉVELOPPEUR](#02---développeur)
+
+[03 - BIG DATA](#03---big-data)
+
+[04 - ML FOUNDATIONS](#04---ml-foundations)
+
+[05 - NLP](#05---nlp)
+
+[06 - PROJET WEB 2](#06---projet-web-2)
+
+[07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS](#07---projet-cicd---création-de-microservices-et-pipeline-cicd-avec-aws)
+
+[08 - PROJET SÉCURITÉ](#08---projet-sécurité)
+
 
 # 01 - ARCHITECTURE
 
