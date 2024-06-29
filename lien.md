@@ -1,1 +1,3 @@
-https://awsacademy.instructure.com/login/canvas
+- https://awsacademy.instructure.com/login/canvas
+- https://medium.com/@salmanalicloud/aws-academy-student-building-a-highly-available-scalable-web-application-582a9085a46a
+- 
