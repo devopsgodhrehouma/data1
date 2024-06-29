@@ -1,5 +1,7 @@
-| Devenir Architecte AWS | Devenir Développeur Cloud |
+Merci pour la clarification. Voici le tableau mis à jour avec les colonnes correctement fusionnées :
 
+| Devenir Architecte AWS | Devenir Développeur Cloud |
+|------------------------|---------------------------|
 
 | Semaine | Date de début | Module 1 | Titre du laboratoire 1 | Module 2 | Titre du laboratoire 2 |
 |---------|---------------|----------|------------------------|----------|------------------------|
