@@ -1,5 +1,5 @@
 | Devenir Architecte AWS | Devenir Développeur Cloud |
-|---------|---------------|----------|------------------------|----------|------------------------|
+
 
 | Semaine | Date de début | Module 1 | Titre du laboratoire 1 | Module 2 | Titre du laboratoire 2 |
 |---------|---------------|----------|------------------------|----------|------------------------|
