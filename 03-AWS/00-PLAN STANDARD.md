@@ -76,3 +76,22 @@
 | Final project preparation and submission               |                                                                               |
 | Final project review and feedback                      |                                                                               |
 
+# BIG DATA 
+
+### Table des Modules pour le Cours d'Ingénierie des Données AWS avec Détails des Laboratoires
+
+| Module | Titre du Module | Objectifs Principaux | Lab 1 | Lab 2 | Assignation |
+|--------|-----------------|----------------------|-------|-------|-------------|
+| Module 1 | Introduction à l'Ingénierie des Données AWS | Introduction au rôle de l'ingénieur des données, importance des décisions basées sur les données | - | - | Quiz Module 1 |
+| Module 2 | Organisations Axées sur les Données | Comprendre les stratégies modernes de gestion des données | "Accès et Analyse des Données avec Amazon S3" | - | Quiz Module 2 |
+| Module 3 | Principes de Conception et Modèles pour les Pipelines de Données | Utilisation du cadre AWS Well-Architected pour l'architecture des données | "Interrogation des Données avec Athena" | - | Quiz Module 3 |
+| Module 4 | Sécurisation et Mise à l'échelle du Pipeline de Données | Sécurisation des charges de travail analytiques et mise à l'échelle de l'infrastructure | - | - | Quiz Module 4 |
+| Module 5 | Ingestion et Préparation des Données | Comparaison entre ETL et ELT, Introduction au nettoyage, enrichissement et validation des données | - | - | Quiz Module 5 |
+| Module 6 | Ingestion par Lot ou en Flux | Comparaison entre l'ingestion par lot et par flux, Utilisation d'AWS Glue et Kinesis pour l'ingestion des données | "Exécution d'ETL sur un Jeu de Données avec AWS Glue" | "Traitement en Flux avec Kinesis" | Quiz Module 6 |
+| Module 7 | Stockage et Organisation des Données | Stockage dans l'architecture moderne des données, Utilisation de Data Lake, Data Warehouse, et bases de données spécialisées | "Stockage et Analyse des Données avec Amazon Redshift" | - | Quiz Module 7 |
+| Module 8 | Traitement des Données Massives | Concepts de traitement des Big Data avec Hadoop, Spark, et Amazon EMR | "Traitement des Logs avec Amazon EMR" | "Mise à Jour des Données Dynamiques avec Apache Hudi" | Quiz Module 8 |
+| Module 9 | Traitement des Données pour l'Apprentissage Automatique | Cycle de vie du ML, Prétraitement des données, Création et déploiement de modèles avec SageMaker | "Préparation des Données et Formation d'un Modèle avec SageMaker" | "Création d'un Modèle de Régression Linéaire avec Amazon CodeWhisperer" | Quiz Module 9 |
+| Module 10 | Analyse et Visualisation des Données | Sélection d'outils pour l'analyse et la visualisation des données sur AWS | "Analyse et Visualisation des Données en Streaming avec Kinesis Data Firehose, OpenSearch Service et OpenSearch Dashboards" | - | Quiz Module 10 |
+| Module 11 | Automatisation du Pipeline | Automatisation du déploiement d'infrastructure, CI/CD avec Step Functions | "Construction et Orchestration de Pipelines ETL avec Athena et Step Functions" | - | Quiz Module 11 |
+| Module 12 | Projet de Certification | Cas d'utilisation IoT, Projet Capstone et évaluation du cours | Projet Capstone | - | Évaluation du cours |
+
