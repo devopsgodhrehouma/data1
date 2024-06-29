@@ -95,3 +95,22 @@
 | Module 11 | Automatisation du Pipeline | Automatisation du déploiement d'infrastructure, CI/CD avec Step Functions | "Construction et Orchestration de Pipelines ETL avec Athena et Step Functions" | - | Quiz Module 11 |
 | Module 12 | Projet de Certification | Cas d'utilisation IoT, Projet Capstone et évaluation du cours | Projet Capstone | - | Évaluation du cours |
 
+
+
+# 3 - ML Foundations
+
+### Table des Modules pour le Cours ML Foundations
+
+| Module | Titre du Module | Objectifs Principaux | Lab 1 | Lab 2 | Assignation |
+|--------|-----------------|----------------------|-------|-------|-------------|
+| Module 1 | Welcome to AWS Academy Machine Learning Foundations | Introduction au cours | - | - | Quiz Module 1 |
+| Module 2 | Introducing Machine Learning | Introduction aux concepts fondamentaux du ML | "Demo - Amazon SageMaker" | - | Quiz Module 2 |
+| Module 3 | Implementing a Machine Learning pipeline with Amazon SageMaker | Implémentation d'un pipeline de ML complet avec SageMaker | "Lab 3.1 - Création et importation de données", "Lab 3.2 - Exploration des données" | "Lab 3.3 - Encodage des données catégoriques", "Lab 3.4 - Entraînement d'un modèle", "Lab 3.5 - Déploiement d'un modèle", "Lab 3.6 - Génération de métriques de performance", "Lab 3.7 - Tuning des hyperparamètres" | Quiz Module 3 |
+| Module 4 | Introducing Forecasting | Introduction à la prévision avec les séries temporelles | "Lab 4 - Création d'une prévision avec Amazon Forecast" | - | Quiz Module 4 |
+| Module 5 | Introducing Computer Vision (CV) | Exploration de la vision par ordinateur | "Lab 5 - Labo guidé : Reconnaissance faciale" | - | Quiz Module 5 |
+| Module 6 | Introducing Natural Language Processing | Introduction au traitement du langage naturel | "Lab 6 - Amazon Lex - Création d'un chatbot" | - | Quiz Module 6 |
+| Module 7 | Introducing Generative AI | Introduction à l'intelligence artificielle générative | "Demo - Création d'un modèle de régression linéaire avec Amazon CodeWhisperer" | - | Quiz Module 7 |
+| Module 8 | Course Wrap-Up | Résumé du cours | - | - | - |
+
+Dans cette table, chaque module est clairement défini avec ses objectifs principaux et les laboratoires associés. Les "Labs" sont placés dans des colonnes séparées pour une identification plus facile des activités pratiques. Notez que certains modules ont plusieurs labs, tandis que d'autres en ont moins ou aucun, selon la structure et les besoins du module.
+
