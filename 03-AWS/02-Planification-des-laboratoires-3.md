@@ -1,5 +1,4 @@
-Merci pour la clarification. Voici le tableau mis à jour avec les colonnes correctement fusionnées :
-
+# PLAN SATNDARD 
 | Devenir Architecte AWS | Devenir Développeur Cloud |
 |------------------------|---------------------------|
 
