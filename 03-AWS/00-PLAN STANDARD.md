@@ -30,6 +30,12 @@
 
 # ANNEXE : 
 
+- 1 - ARCHITECTURE
+- 2 - DÉVELOPPEUR
+- 3 - BIG DATA
+- 4 - ML Foundations
+- 5 - NLP Foundations
+  
 # 1 - ARCHITECTURE
 
 | Module | Titre du laboratoire |
