@@ -1,5 +1,6 @@
 | Devenir Architecte AWS | Devenir Développeur Cloud |
 |------------------------|--------------------------|
+
 | Semaine | Date de début | Module 1 | Titre du laboratoire 1 | Module 2 | Titre du laboratoire 2 |
 |---------|---------------|----------|------------------------|----------|------------------------|
 | 1       | 29 juin       | Module 3 | Atelier guidé du module 3 : hébergement d'un site web statique | Module 2 | Lab 2.1: Exploring AWS CloudShell and the AWS Cloud9 Integrated Development Environment |
