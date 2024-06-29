@@ -114,7 +114,7 @@
 
 
 
-# 4 - NLP Foundations
+# 5 - NLP Foundations
 ### Table des Modules pour le Cours NLP Modules
 
 | Module | Titre du Module | Objectifs Principaux | Lab 1 | Lab 2 | Assignation |
