@@ -1,4 +1,4 @@
-# PLAN SATNDARD 
+# PLAN ÉTENDU 
 | Devenir Architecte AWS | Devenir Développeur Cloud |
 |------------------------|---------------------------|
 
