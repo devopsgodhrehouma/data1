@@ -1,3 +1,14 @@
+# PLAN
+[Architecture Course Plan](#01---architecture)
+
+# 02 - DÉVELOPPEUR
+# 03 - BIG DATA 
+# 04 - ML FOUNDATIONS
+# 05 - NLP
+# 06 - PROJET WEB 2
+# 07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS
+# 08 - PROJET SÉCURITÉ
+
 # 01 - ARCHITECTURE
 
 | Module | Concepts | Outils |
@@ -85,6 +96,7 @@
 | **Module 7** | Travail avec les langues, Détection et traduction des langues, Transcription et vocalisation du texte avec les services AWS | N/A | Multilingue |
 | **Module 8** | Introduction à l'IA générative, Modèles fondamentaux et grands modèles de langage, Architecture de transformateur, Paramètres de configuration pour contrôler la sortie des LLMs, Ingénierie des invites, Intégration des applications | Amazon Bedrock | IA générative |
 | **Module 9** | Conclusion du cours, Projet Capstone, Préparation à la certification | N/A | Conclusion |
+
 
 # 06 - PROJET WEB 2
 
