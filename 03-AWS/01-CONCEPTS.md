@@ -16,7 +16,7 @@
 
 [08 - PROJET SÉCURITÉ](#08---projet-sécurité) 
 
-
+---
 # 01 - ARCHITECTURE
 [Retour à la Table des Matières](#plan)
 
@@ -38,7 +38,7 @@
 | **Module 14** | Planification des sinistres, Stratégies de planification des sinistres, Modèles de reprise après sinistre, Stockage hybride et migration des données | AWS Storage Gateway |
 | **Module 15** | Passerelle vers la certification, Ressources supplémentaires, Projet Capstone | AWS Certification Resources |
 
-
+---
 # 02 - DÉVELOPPEUR
 [Retour à la Table des Matières](#plan)
 
@@ -59,7 +59,7 @@
 | **Module 13** | Automatisation du déploiement avec des pipelines CI/CD, Introduction à DevOps, Services AWS pour CI/CD, Déploiement d'applications avec CloudFormation, Modèle d'application sans serveur AWS (AWS SAM) | CloudFormation, AWS SAM | CI/CD |
 | **Module 14** | Passerelle vers la certification, Certifications et ressources supplémentaires | AWS Certification Resources | Certification |
 
-
+---
 # 03 - BIG DATA 
 [Retour à la Table des Matières](#plan)
 
@@ -81,7 +81,7 @@
 | **IoT Use Case** | Cas d'usage IoT | N/A | IoT |
 | **Capstone Project** | Projet Capstone | N/A | Projet Final |
 
-
+---
 # 04 - ML FOUNDATIONS
 [Retour à la Table des Matières](#plan)
 
@@ -96,7 +96,7 @@
 | **Module 7** | Introduction à l'IA générative, Fonctionnement de l'IA générative, Offres AWS pour l'IA générative | Amazon CodeWhisperer | IA générative |
 | **Module 8** | Conclusion du cours | N/A | Conclusion |
 
-
+---
 # 05 - NLP
 [Retour à la Table des Matières](#plan)
 
@@ -112,7 +112,7 @@
 | **Module 8** | Introduction à l'IA générative, Modèles fondamentaux et grands modèles de langage, Architecture de transformateur, Paramètres de configuration pour contrôler la sortie des LLMs, Ingénierie des invites, Intégration des applications | Amazon Bedrock | IA générative |
 | **Module 9** | Conclusion du cours, Projet Capstone, Préparation à la certification | N/A | Conclusion |
 
-
+---
 # 06 - PROJET WEB 2
 [Retour à la Table des Matières](#plan)
 
@@ -154,7 +154,7 @@
 | Tâche 7.4 : Enregistrement du fichier journal dans un compartiment S3 | Stockage                      | Stockage des journaux, Amazon S3                                                                     | Utilisation de l'AWS CLI pour copier le journal d'accès avec géolocalisation dans un compartiment S3.                                                                                                                                                    |
 | Tâche 7.5 : Utilisation de S3 Select pour interroger les journaux stockés dans S3 | Analyse                       | S3 Select, requêtes SQL                                                                              | Utilisation de S3 Select pour interroger les journaux stockés dans S3 et comparer les résultats avec ceux de CloudWatch Insights.                                                                                                                                                                                                               |
 
-
+---
 # 07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS
 [Retour à la Table des Matières](#plan)
 
@@ -212,7 +212,7 @@
 | 9.4 | Tester l'accès au microservice employé | Test | Vérification des restrictions d'accès et de la fonctionnalité de l'interface utilisateur |
 | 9.5 | Mettre à l'échelle le microservice client | Scalabilité | Augmentation du nombre de conteneurs pour le microservice client |
 
-
+---
 # 08 - PROJET SÉCURITÉ
 [Retour à la Table des Matières](#plan)
 
