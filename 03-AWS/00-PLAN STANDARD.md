@@ -24,3 +24,55 @@
 | 19      | 2 novembre    | Module 14 | Atelier guidé du module 14 : stockage hybride et migration des données avec la passerelle de fichiers AWS Storage Gateway | Module 13 | Lab 13.1: Automating Application Deployment Using a CI/CD Pipeline |
 | 20      | 9 novembre    | Module 15 | Projet Capstone | Module 14 | Lab 14.1: Disaster Recovery Planning and Implementation |
 | 21      | 16 novembre   | Final project review and feedback | Module 15 | Final project review and feedback |
+
+
+
+
+# ANNEXE : 
+
+# ARCHITECTURE
+
+| Module | Titre du laboratoire |
+|--------|-----------------------|
+| Module 3 | Atelier guidé du module 3 : hébergement d'un site web statique |
+| Module 3 | Atelier Défi du module 3 : création d'un site web statique pour le café |
+| Module 4 | Atelier guidé du module 4 : présentation d'Amazon Elastic File System (Amazon EFS) |
+| Module 4 | Atelier Défi du module 4 : création d'un site web dynamique pour le café |
+| Module 5 | Atelier guidé du module 5 : création d'une base de données Amazon RDS |
+| Module 5 | Atelier Défi du module 5 : migration d'une base de données vers Amazon RDS |
+| Module 6 | Atelier guidé du module 6 : création d'un cloud privé virtuel (VPC) |
+| Module 6 | Atelier Défi du module 6 : création d'un environnement réseau VPC pour le café |
+| Module 7 | Atelier guidé du module 7 : création d'une connexion d'appairage de VPC |
+| Module 8 | Atelier Défi du module 8 : contrôle de l'accès au compte AWS à l'aide d'IAM |
+| Module 9 | Atelier guidé du module 9 : création d'un environnement hautement disponible |
+| Module 9 | Atelier Défi du module 9 : création d'un environnement évolutif et hautement disponible pour le café |
+| Module 10 | Atelier guidé du module 10 : automatisation du déploiement de l'infrastructure avec AWS CloudFormation |
+| Module 10 | Atelier Défi du module 10 : automatisation du déploiement de l'infrastructure |
+| Module 11 | Atelier guidé du module 11 : diffusion de contenu dynamique avec Amazon CloudFront |
+| Module 13 | Atelier guidé 1 du module 13 (facultatif) : décomposition d'une application Node.js monolithique en microservices |
+| Module 13 | Atelier guidé du module 13 : mise en œuvre d'une architecture sans serveur avec AWS Lambda |
+| Module 13 | Atelier Défi du module 13 : mise en œuvre d'une architecture sans serveur pour le café |
+| Module 14 | Atelier guidé du module 14 : stockage hybride et migration des données avec la passerelle de fichiers AWS Storage Gateway |
+| Module 15 | Projet Capstone |
+
+# DÉVELOPPEUR
+
+| Module                                                | Lab Assignment                                                             | Points |
+|-------------------------------------------------------|---------------------------------------------------------------------------|--------|
+| Module 2: Introduction to Developing on AWS           | Lab 2.1: Exploring AWS CloudShell and the AWS Cloud9 Integrated Development Environment | 100    |
+| Module 3: Developing Storage Solutions                | Lab 3.1: Working with Amazon S3                                            | 100    |
+| Module 5: Developing Flexible NoSQL Solutions         | Lab 5.1: Working with DynamoDB                                             | 100    |
+| Module 6: Developing REST APIs                        | Lab 6.1: Developing REST APIs with API Gateway                             | 100    |
+| Module 7: Developing Event-Driven Serverless Solutions | Lab 7.1: Creating Lambda Functions Using the AWS SDK for Python            | 100    |
+| Module 8: Introducing Containers and Container Services | Lab 8.1: Migrating a Web Application to Docker Containers                  | 100    |
+| Module 8: Introducing Containers and Container Services | Lab 8.2: Running Containers on a Managed Service                           | 100    |
+| Module 9: Caching Information for Scalability         | Lab 9.1: Caching Application Data with ElastiCache                         | 100    |
+| Module 9: Caching Information for Scalability         | Lab 9.2: Implementing CloudFront for Caching and Application Security      | 100    |
+| Module 10: Developing with Messaging Services         | Lab 10.1: Implementing a Messaging System Using Amazon SNS and Amazon SQS  | 100    |
+| Module 11: Defining Workflows to Orchestrate Functions | Lab 11.1: Orchestrating Serverless Functions with Step Functions           | 100    |
+| Module 12: Developing Secure Applications on AWS      | Lab 12.1: Implementing Application Authentication Using Amazon Cognito     | 100    |
+| Module 13: Automating Deployment Using CI/CD Pipelines | Lab 13.1: Automating Application Deployment Using a CI/CD Pipeline         | 100    |
+| Review and catch up                                                                         |                                                                               |
+| Final project preparation and submission               |                                                                               |
+| Final project review and feedback                      |                                                                               |
+
