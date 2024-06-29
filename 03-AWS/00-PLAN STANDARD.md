@@ -30,7 +30,7 @@
 
 # ANNEXE : 
 
-# ARCHITECTURE
+# 1 - ARCHITECTURE
 
 | Module | Titre du laboratoire |
 |--------|-----------------------|
@@ -55,7 +55,7 @@
 | Module 14 | Atelier guidé du module 14 : stockage hybride et migration des données avec la passerelle de fichiers AWS Storage Gateway |
 | Module 15 | Projet Capstone |
 
-# DÉVELOPPEUR
+# 2 - DÉVELOPPEUR
 
 | Module                                                | Lab Assignment                                                             | Points |
 |-------------------------------------------------------|---------------------------------------------------------------------------|--------|
@@ -76,7 +76,7 @@
 | Final project preparation and submission               |                                                                               |
 | Final project review and feedback                      |                                                                               |
 
-# BIG DATA 
+# 3 - BIG DATA 
 
 ### Table des Modules pour le Cours d'Ingénierie des Données AWS avec Détails des Laboratoires
 
