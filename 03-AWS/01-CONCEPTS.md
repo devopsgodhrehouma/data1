@@ -89,56 +89,12 @@
 # 06 - PROJET WEB 2
 
 
-| Phase | Concepts | Outils | Catégorie |
-|-------|----------|--------|-----------|
-| **Phase 1** | Planification de la conception, Estimation des coûts | AWS Pricing Calculator | Planification |
-| **Phase 2** | Création d'un réseau virtuel, Création d'une machine virtuelle, Test du déploiement | Amazon VPC, Amazon EC2, Ubuntu, AWS CLI | Déploiement initial |
-| **Phase 3** | Modification de la configuration du VPC, Création et configuration de la base de données Amazon RDS, Configuration de l'environnement de développement, Mise en service de Secrets Manager, Mise en service d'une nouvelle instance pour le serveur web, Migration de la base de données, Test de l'application | Amazon VPC, Amazon RDS, AWS Cloud9, AWS Secrets Manager, Amazon EC2 | Découplage des composants |
-| **Phase 4** | Création d'un Application Load Balancer, Mise en œuvre d'Amazon EC2 Auto Scaling, Test de l'application, Test de charge de l'application | Application Load Balancer, Amazon EC2 Auto Scaling, AWS Cloud9, loadtest (GitHub) | Haute disponibilité et mise à l'échelle |
 
-### Détails des tâches par phase :
-
-#### Phase 1 : Planification de la conception et estimation des coûts
-- **Tâche 1** : Création d'un schéma architectural
-  - **Outils** : Icônes de l'architecture AWS, Schémas d'architecture de référence d'AWS
-- **Tâche 2** : Élaboration d'une estimation des coûts
-  - **Outils** : AWS Pricing Calculator
-
-#### Phase 2 : Création d'une application web fonctionnelle de base
-- **Tâche 1** : Création d'un réseau virtuel
-  - **Outils** : Amazon VPC
-- **Tâche 2** : Création d'une machine virtuelle
-  - **Outils** : Amazon EC2, Ubuntu, Code JavaScript
-- **Tâche 3** : Test du déploiement
-  - **Outils** : AWS CLI, Adresse IPv4 de la VM
-
-#### Phase 3 : Découplage des composants de l'application
-- **Tâche 1** : Modification de la configuration du VPC
-  - **Outils** : Amazon VPC
-- **Tâche 2** : Création et configuration de la base de données Amazon RDS
-  - **Outils** : Amazon RDS, MySQL
-- **Tâche 3** : Configuration de l'environnement de développement
-  - **Outils** : AWS Cloud9
-- **Tâche 4** : Mise en service de Secrets Manager
-  - **Outils** : AWS Secrets Manager, Scripts AWS Cloud9
-- **Tâche 5** : Mise en service d'une nouvelle instance pour le serveur web
-  - **Outils** : Amazon EC2, Code JavaScript
-- **Tâche 6** : Migration de la base de données
-  - **Outils** : AWS CLI, Scripts AWS Cloud9
-- **Tâche 7** : Test de l'application
-  - **Outils** : Application web
-
-#### Phase 4 : Mise en œuvre de la haute disponibilité et de la capacité de mise à l'échelle élevée
-- **Tâche 1** : Création d'un Application Load Balancer
-  - **Outils** : Application Load Balancer
-- **Tâche 2** : Mise en œuvre d'Amazon EC2 Auto Scaling
-  - **Outils** : Amazon EC2 Auto Scaling, AMI
-- **Tâche 3** : Accès à l'application
-  - **Outils** : Application web
-- **Tâche 4** : Test de charge de l'application
-  - **Outils** : AWS Cloud9, loadtest (GitHub)
 
 # 07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS
+
+### Présentation et objectifs du projet
+- Utilisation de services AWS pour créer une solution de microservices et CI/CD, avec un focus sur la création de pipelines automatisés pour le déploiement continu.
 
 ## Concepts et Tâches
 
@@ -191,24 +147,6 @@
 | 9.4 | Tester l'accès au microservice employé | Test | Vérification des restrictions d'accès et de la fonctionnalité de l'interface utilisateur |
 | 9.5 | Mettre à l'échelle le microservice client | Scalabilité | Augmentation du nombre de conteneurs pour le microservice client |
 
-### Présentation et objectifs du projet
-Utilisation de services AWS pour créer une solution de microservices et CI/CD, avec un focus sur la création de pipelines automatisés pour le déploiement continu.
-
-### Environnement de l'atelier et suivi de votre budget
-Gestion des sessions d'atelier et suivi du budget alloué pour éviter toute désactivation de compte AWS.
-
-### Restrictions des services AWS
-Accès limité aux services nécessaires pour mener à bien le projet.
-
-### Scénario
-Transformation d'une application monolithique d'un fournisseur de café en une architecture microservices pour améliorer la scalabilité et la fiabilité.
-
-### Conditions requises par la solution
-Exigences de conception, optimisation des coûts, architecture microservices, portabilité, capacité de mise à l'échelle, et CI/CD automatisé.
-
-### Conseils pour le projet de cet atelier
-Utilisation de références et de documentation AWS, ainsi que des commandes Bash Linux pour accomplir les tâches. 
-Encouragement à l'ingéniosité et à l'apprentissage autonome.
 
 # 08 - PROJET SÉCURITÉ
 
