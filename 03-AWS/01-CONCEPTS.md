@@ -1,6 +1,13 @@
 # PLAN
+[Architecture](#01---architecture)
+[DÉVELOPPEUR](#02---DÉVELOPPEUR)
 [Architecture Course Plan](#01---architecture)
-
+[Architecture Course Plan](#01---architecture)
+[Architecture Course Plan](#01---architecture)
+[Architecture Course Plan](#01---architecture)
+[Architecture Course Plan](#01---architecture)
+[Architecture Course Plan](#01---architecture)
+[Architecture Course Plan](#01---architecture)
 # 02 - DÉVELOPPEUR
 # 03 - BIG DATA 
 # 04 - ML FOUNDATIONS
