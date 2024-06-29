@@ -1,6 +1,8 @@
 # PLAN
 [Architecture](#01---architecture)
+
 [DÉVELOPPEUR](#02---DÉVELOPPEUR)
+
 [Architecture Course Plan](#01---architecture)
 [Architecture Course Plan](#01---architecture)
 [Architecture Course Plan](#01---architecture)
