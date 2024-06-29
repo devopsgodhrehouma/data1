@@ -112,5 +112,21 @@
 | Module 7 | Introducing Generative AI | Introduction à l'intelligence artificielle générative | "Demo - Création d'un modèle de régression linéaire avec Amazon CodeWhisperer" | - | Quiz Module 7 |
 | Module 8 | Course Wrap-Up | Résumé du cours | - | - | - |
 
-Dans cette table, chaque module est clairement défini avec ses objectifs principaux et les laboratoires associés. Les "Labs" sont placés dans des colonnes séparées pour une identification plus facile des activités pratiques. Notez que certains modules ont plusieurs labs, tandis que d'autres en ont moins ou aucun, selon la structure et les besoins du module.
+
+
+# 4 - NLP Foundations
+### Table des Modules pour le Cours NLP Modules
+
+| Module | Titre du Module | Objectifs Principaux | Lab 1 | Lab 2 | Assignation |
+|--------|-----------------|----------------------|-------|-------|-------------|
+| Module 1 | Welcome to AWS Academy NLP | Introduction au traitement du langage naturel (NLP) | - | - | Quiz Module 1 |
+| Module 2 | Introduction to Natural Language Processing (NLP) | Fondamentaux du NLP | "Lab 2.1 - Applying ML to an NLP problem" | - | Quiz Module 2 |
+| Module 3 | Processing Text for NLP | Techniques de prétraitement du texte pour NLP | "Lab 3.1 - Extracting text from the web", "Lab 3.2 - Processing Text" | "Lab 3.3 - Encoding and Vectorizing Text" | Quiz Module 3 |
+| Module 4 | Implementing Sentiment Analysis | Analyse des sentiments et ses algorithmes | "Lab 4.1 - Implementing Sentiment Analysis" | - | Quiz Module 4 |
+| Module 5 | Introducing Information Extraction | Introduction à l'extraction d'informations | "Lab 5.1 - Implementing Information Extraction", "Lab 5.2 - Working with Entities" | - | Quiz Module 5 |
+| Module 6 | Introducing Topic Modeling | Modélisation de sujets avec des outils d'AWS | "Lab 6.1 - Implementing Topic Modeling with Amazon Comprehend", "Lab 6.2 - Implementing Topic Modeling with NTM" | "Lab 6.3 - Implementing Topic Modeling" | Quiz Module 6 |
+| Module 7 | Working with Languages | Gestion multilingue et services AWS | "Lab 7.1 - Implementing a multi-lingual solution" | - | Quiz Module 7 |
+| Module 8 | Working with Generative AI | AI générative et utilisation de grands modèles linguistiques | - | - | Quiz Module 8 |
+| Module 9 | Course Wrap-up | Synthèse du cours et projet de capstone | "Capstone Project" | - | - |
+
 
