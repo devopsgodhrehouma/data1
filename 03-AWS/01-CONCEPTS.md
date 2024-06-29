@@ -3,25 +3,17 @@
 # PLAN
 
 [01 - Architecture](#01---architecture)
-
 [02 - DÉVELOPPEUR](#02---développeur)
-
 [03 - BIG DATA](#03---big-data)
-
 [04 - ML FOUNDATIONS](#04---ml-foundations)
-
 [05 - NLP](#05---nlp)
-
 [06 - PROJET WEB 2](#06---projet-web-2)
-
 [07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS](#07---projet-cicd---création-de-microservices-et-pipeline-cicd-avec-aws)
-
 [08 - PROJET SÉCURITÉ](#08---projet-sécurité)
 
 
-[Retour à la Table des Matières](#plan)
 # 01 - ARCHITECTURE
-
+[Retour à la Table des Matières](#plan)
 
 | Module | Concepts | Outils |
 |--------|----------|--------|
@@ -41,8 +33,9 @@
 | **Module 14** | Planification des sinistres, Stratégies de planification des sinistres, Modèles de reprise après sinistre, Stockage hybride et migration des données | AWS Storage Gateway |
 | **Module 15** | Passerelle vers la certification, Ressources supplémentaires, Projet Capstone | AWS Certification Resources |
 
-[Retour à la Table des Matières](#plan)
+
 # 02 - DÉVELOPPEUR
+[Retour à la Table des Matières](#plan)
 
 | Module | Concepts | Outils | Catégorie |
 |--------|----------|--------|-----------|
@@ -61,8 +54,9 @@
 | **Module 13** | Automatisation du déploiement avec des pipelines CI/CD, Introduction à DevOps, Services AWS pour CI/CD, Déploiement d'applications avec CloudFormation, Modèle d'application sans serveur AWS (AWS SAM) | CloudFormation, AWS SAM | CI/CD |
 | **Module 14** | Passerelle vers la certification, Certifications et ressources supplémentaires | AWS Certification Resources | Certification |
 
-[Retour à la Table des Matières](#plan)
+
 # 03 - BIG DATA 
+[Retour à la Table des Matières](#plan)
 
 | Module | Concepts | Outils | Catégorie |
 |--------|----------|--------|-----------|
@@ -82,8 +76,9 @@
 | **IoT Use Case** | Cas d'usage IoT | N/A | IoT |
 | **Capstone Project** | Projet Capstone | N/A | Projet Final |
 
-[Retour à la Table des Matières](#plan)
+
 # 04 - ML FOUNDATIONS
+[Retour à la Table des Matières](#plan)
 
 | Module | Concepts | Outils | Catégorie |
 |--------|----------|--------|-----------|
@@ -96,9 +91,9 @@
 | **Module 7** | Introduction à l'IA générative, Fonctionnement de l'IA générative, Offres AWS pour l'IA générative | Amazon CodeWhisperer | IA générative |
 | **Module 8** | Conclusion du cours | N/A | Conclusion |
 
-[Retour à la Table des Matières](#plan)
-# 05 - NLP
 
+# 05 - NLP
+[Retour à la Table des Matières](#plan)
 
 | Module | Concepts | Outils | Catégorie |
 |--------|----------|--------|-----------|
@@ -112,9 +107,9 @@
 | **Module 8** | Introduction à l'IA générative, Modèles fondamentaux et grands modèles de langage, Architecture de transformateur, Paramètres de configuration pour contrôler la sortie des LLMs, Ingénierie des invites, Intégration des applications | Amazon Bedrock | IA générative |
 | **Module 9** | Conclusion du cours, Projet Capstone, Préparation à la certification | N/A | Conclusion |
 
-[Retour à la Table des Matières](#plan)
-# 06 - PROJET WEB 2
 
+# 06 - PROJET WEB 2
+[Retour à la Table des Matières](#plan)
 
 | **Phase**                         | **Catégorie**                | **Concept**                                                                                          | **Description**                                                                                                                                                                                                                                           |
 |-----------------------------------|------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -154,8 +149,9 @@
 | Tâche 7.4 : Enregistrement du fichier journal dans un compartiment S3 | Stockage                      | Stockage des journaux, Amazon S3                                                                     | Utilisation de l'AWS CLI pour copier le journal d'accès avec géolocalisation dans un compartiment S3.                                                                                                                                                    |
 | Tâche 7.5 : Utilisation de S3 Select pour interroger les journaux stockés dans S3 | Analyse                       | S3 Select, requêtes SQL                                                                              | Utilisation de S3 Select pour interroger les journaux stockés dans S3 et comparer les résultats avec ceux de CloudWatch Insights.                                                                                                                                                                                                               |
 
-[Retour à la Table des Matières](#plan)
+
 # 07 - PROJET CI/CD - Création de Microservices et Pipeline CI/CD avec AWS
+[Retour à la Table des Matières](#plan)
 
 ### Présentation et objectifs du projet
 - Utilisation de services AWS pour créer une solution de microservices et CI/CD, avec un focus sur la création de pipelines automatisés pour le déploiement continu.
@@ -211,9 +207,9 @@
 | 9.4 | Tester l'accès au microservice employé | Test | Vérification des restrictions d'accès et de la fonctionnalité de l'interface utilisateur |
 | 9.5 | Mettre à l'échelle le microservice client | Scalabilité | Augmentation du nombre de conteneurs pour le microservice client |
 
-[Retour à la Table des Matières](#plan)
-# 08 - PROJET SÉCURITÉ
 
+# 08 - PROJET SÉCURITÉ
+[Retour à la Table des Matières](#plan)
 
 | **Phase**                         | **Concept**                                                                                          | **Description**                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -274,10 +270,10 @@
 | Tâche 4.1 : Analyse des incidents   | CloudTrail, AWS Config, GuardDuty                                                                   | Analyse des logs CloudTrail pour comprendre les activités ayant conduit aux incidents, utilisation d'AWS Config pour vérifier la configuration des ressources au moment des incidents, activation de GuardDuty pour détecter les menaces potentielles et anomalies.                                             |
 | Tâche 4.2 : Mise en œuvre des améliorations | IAM Policies, Security Groups, Automation Scripts                                                    | Mise à jour des politiques IAM et des groupes de sécurité pour renforcer la protection des ressources, utilisation de scripts d'automatisation pour appliquer les meilleures pratiques de sécurité de manière cohérente.                                                                                    |
 | Tâche 4.3 : Formation et sensibilisation | Security Training, Awareness Programs                                                               | Organisation de formations de sécurité pour les équipes, mise en place de programmes de sensibilisation pour renforcer la culture de sécurité au sein de l'organisation.                                                                                                                                                                           |
-[Retour à la Table des Matières](#plan)
-# 09 - PROJET BIG DATA 
 
-The image you provided shows a part of the table with an incorrectly formatted section. Let's correct the formatting for the table:
+# 09 - PROJET BIG DATA 
+[Retour à la Table des Matières](#plan)
+
 
 | **Phase**                         | **Catégorie**                | **Concept**                                                                                          | **Description**                                                                                                                                                                                                                                           |
 |-----------------------------------|------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
