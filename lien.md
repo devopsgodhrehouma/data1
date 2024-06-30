@@ -16,10 +16,10 @@
 
 # PROJETS
 
-# 1 - (WEB) Créer une application web hautement disponible et pouvant être mise à l'échelle
-# 2 - (DÉPLOIEMENT Microservices and CI/CD) Créer des microservices et un pipeline CI/CD avec AWS
-# 3 - (SÉCURITÉ) Sécurisation et surveillance des ressources avec AWS
-# 4 - (BIG DATA) Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
+### 1 - (WEB) Créer une application web hautement disponible et pouvant être mise à l'échelle
+### 2 - (DÉPLOIEMENT Microservices and CI/CD) Créer des microservices et un pipeline CI/CD avec AWS
+### 3 - (SÉCURITÉ) Sécurisation et surveillance des ressources avec AWS
+### 4 - (BIG DATA) Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
 
 # RÉFÉRENCES
 
