@@ -36,6 +36,7 @@
 - lien 1
 - lien 2 : https://medium.com/@rimjhimittal2003/securing-your-aws-infrastructure-a-comprehensive-guide-94ee95615bf4
 - lien 3 : AWS Academy Cloud Security Foundations Lab 6.1 (https://www.youtube.com/watch?v=dVhU1T01r4g&ab_channel=DavidDai)
+- TOUTE LA CHAINE POUR Security Foundations : https://www.youtube.com/playlist?list=PLVQzKSZl3hU5i4edsBByq_kmGhKfkd75q
 # 4 - (BIG DATA) Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
 - lien 1 : https://medium.com/@farzanajuthi08/building-a-data-pipeline-to-support-analyzing-clickstream-data-with-aws-26f6ae12d769
 - lien 2
