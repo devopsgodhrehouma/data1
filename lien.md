@@ -11,6 +11,7 @@
 # YOUTUBE
 - https://www.youtube.com/@anandke/playlists
 - https://www.youtube.com/playlist?list=PLfmMgg_VrrlC3FWzVpI7pqrPdzHUIZx70
+- https://www.youtube.com/playlist?list=PLVQzKSZl3hU6s_Z2-vQPGuc5uCh3tm88f
 - ANCIENS 477 - 2 J45 ET J55
 
 
