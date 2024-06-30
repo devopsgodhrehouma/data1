@@ -8,7 +8,7 @@
 ###### 4 - (BIG DATA) Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
 
 # 3 - RÉFÉRENCES
-# 1 - (WEB) Créer une application web hautement disponible et pouvant être mise à l'échelle
+######  1 - (WEB) Créer une application web hautement disponible et pouvant être mise à l'échelle
 - lien 1 : https://medium.com/@salmanalicloud/aws-academy-student-building-a-highly-available-scalable-web-application-582a9085a46a
 - lien 2
 - lien 3
