@@ -1,9 +1,9 @@
 - https://awsacademy.instructure.com/login/canvas
-
-
-
 - https://medium.com/@salmanalicloud/aws-academy-student-building-a-highly-available-scalable-web-application-582a9085a46a
 - https://medium.com/@salmanalicloud/securely-manage-identities-and-access-to-aws-services-and-resources-49e413e01a7e
+
+
+![image](https://github.com/devopsgodhrehouma/data1/assets/158607135/e527239d-e148-4642-b8c7-af18f37bbb25)
 
 # Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
 - https://medium.com/@farzanajuthi08/building-a-data-pipeline-to-support-analyzing-clickstream-data-with-aws-26f6ae12d769
