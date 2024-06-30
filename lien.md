@@ -8,10 +8,11 @@
 # Création d'un pipeline de données afin de prendre en charge l'analyse des données de flux de clics avec AWS
 - https://medium.com/@farzanajuthi08/building-a-data-pipeline-to-support-analyzing-clickstream-data-with-aws-26f6ae12d769
   
-# YOUTUBE
+# CHAINES YOUTUBE ARCHITECTE + DEVELOPER + SECURITY
 - https://www.youtube.com/@anandke/playlists
 - https://www.youtube.com/playlist?list=PLfmMgg_VrrlC3FWzVpI7pqrPdzHUIZx70
 - https://www.youtube.com/playlist?list=PLVQzKSZl3hU6s_Z2-vQPGuc5uCh3tm88f
+- https://www.youtube.com/playlist?list=PLVQzKSZl3hU5i4edsBByq_kmGhKfkd75q
 - ANCIENS 477 - 2 J45 ET J55
 
 
