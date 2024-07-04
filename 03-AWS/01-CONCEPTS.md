@@ -320,3 +320,16 @@
 | Tâche 7.3 : Création d'un tableau de bord CloudWatch pour observer les données de géolocalisation | Visualisation                 | Création de tableau de bord, widgets CloudWatch                                                      | Création d'un tableau de bord CloudWatch avec des widgets pour visualiser les informations de géolocalisation des visiteurs du site web.                                                                                                                 |
 | Tâche 7.4 : Enregistrement du fichier journal dans un compartiment S3 | Stockage                      | Stockage des journaux, Amazon S3                                                                     | Utilisation de l'AWS CLI pour copier le journal d'accès avec géolocalisation dans un compartiment S3.                                                                                                                                                    |
 | Tâche 7.5 : Utilisation de S3 Select pour interroger les journaux stockés dans S3 | Analyse                       | S3 Select, requêtes SQL                                                                              | Utilisation de S3 Select pour interroger les journaux stockés dans S3 et comparer les résultats avec ceux de CloudWatch Insights.                                                                                                                                                                                                               |                                                                                                                                                                                                               |
+
+
+# Cours sécurité
+- 00 - COURS SÉCURITÉ ANGLAIS (UNIVERSEL)
+| Module | Titre du laboratoire | Points |
+|--------|-----------------------|--------|
+| Module 3: Sécuriser l'accès aux ressources cloud | Lab 3.1: Utiliser des politiques basées sur les ressources pour sécuriser un bucket S3 | 100 |
+| Module 4: Sécuriser votre infrastructure | Lab 4.1: Sécuriser les ressources VPC en utilisant des groupes de sécurité | 100 |
+| Module 5: Protéger les données de votre application | Lab 5.1: Chiffrer les données au repos en utilisant AWS KMS | 100 |
+| Module 6: Journalisation et surveillance | Lab 6.1: Surveiller et alerter avec CloudTrail et CloudWatch | 100 |
+| Module 7: Répondre et gérer un incident | Lab 7.1: Remédier à un incident en utilisant AWS Config et Lambda | 100 |
+
+Si vous avez besoin d'autres informations ou de modifications, n'hésitez pas à me le faire savoir.
