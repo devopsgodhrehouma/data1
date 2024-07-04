@@ -323,7 +323,10 @@
 
 
 # Cours sécurité
+
 - 00 - COURS SÉCURITÉ ANGLAIS (UNIVERSEL)
+
+
 | Module | Titre du laboratoire | Points |
 |--------|-----------------------|--------|
 | Module 3: Sécuriser l'accès aux ressources cloud | Lab 3.1: Utiliser des politiques basées sur les ressources pour sécuriser un bucket S3 | 100 |
@@ -331,5 +334,3 @@
 | Module 5: Protéger les données de votre application | Lab 5.1: Chiffrer les données au repos en utilisant AWS KMS | 100 |
 | Module 6: Journalisation et surveillance | Lab 6.1: Surveiller et alerter avec CloudTrail et CloudWatch | 100 |
 | Module 7: Répondre et gérer un incident | Lab 7.1: Remédier à un incident en utilisant AWS Config et Lambda | 100 |
-
-Si vous avez besoin d'autres informations ou de modifications, n'hésitez pas à me le faire savoir.
