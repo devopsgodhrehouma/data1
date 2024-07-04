@@ -18,6 +18,7 @@
 
 [09 - PROJET BIG DATA](#09---PROJET-BIG-DATA) 
 
+[10 - SÉCURITÉ](#Cours-sécurité) 
 
 ---
 # 01 - ARCHITECTURE
@@ -325,7 +326,9 @@
 # Cours sécurité
 
 - 00 - COURS SÉCURITÉ ANGLAIS
+- AWS Academy Cloud Security Foundations 
 - https://www.youtube.com/playlist?list=PLZ0gjp0MHyEsHt8BhFfA-u_eeDmuqOC5M
+- [Retour à la Table des Matières](#plan)
 
 
 | Module | Titre du laboratoire | Points |
