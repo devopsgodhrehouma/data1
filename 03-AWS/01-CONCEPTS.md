@@ -324,7 +324,8 @@
 
 # Cours sécurité
 
-- 00 - COURS SÉCURITÉ ANGLAIS (UNIVERSEL)
+- 00 - COURS SÉCURITÉ ANGLAIS
+- https://www.youtube.com/playlist?list=PLZ0gjp0MHyEsHt8BhFfA-u_eeDmuqOC5M
 
 
 | Module | Titre du laboratoire | Points |
