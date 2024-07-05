@@ -26,7 +26,7 @@
 | 16      | 12 octobre    | Module 12              | Atelier guidé du module 12 : mise en œuvre d'une architecture sans serveur avec AWS Lambda | Module 10                 | Lab 10.1: Implementing a Messaging System Using Amazon SNS and Amazon SQS |
 | 17      | 19 octobre    | Module 13              | Atelier guidé du module 13 : mise en œuvre d'une architecture sans serveur avec AWS Lambda | Module 11                 | Lab 11.1: Orchestrating Serverless Functions with Step Functions |
 
-- Projet Capstone
+# Date limite du Projet Capstone : 19 octobre
 - Cette organisation permet de suivre les modules et laboratoires de chaque cours de manière structurée et cohérente, en respectant les deadlines jusqu'au 18 octobre.
 
 
