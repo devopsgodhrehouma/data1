@@ -1,6 +1,14 @@
 # 1 - Lien 1
 ###### https://awsacademy.instructure.com/login/canvas
 ######  https://drive.google.com/drive/folders/1lp8hotejRKnu90ZASGrexDhh8qr9drLk?usp=sharing
+
+aws s3api put-bucket-ownership-controls --bucket c84968a181123514814882tlw66503827742-samplebucket-ywp0aj41j5eo --ownership-controls 'Rules=[{ObjectOwnership=BucketOwnerPreferred}]'
+
+aws s3api put-public-access-block --bucket c84968a181123514814882tlw66503827742-samplebucket-ywp0aj41j5eo --public-access-block-configuration "BlockPublicAcls=false,IgnorePublicAcls=false,BlockPublicPolicy=false,RestrictPublicBuckets=false"
+
+
+aws s3api put-object-acl --bucket c84968a181123514814882tlw66503827742-samplebucket-ywp0aj41j5eo --key index.html --acl public-read
+
   
 #  2 - PROJETS
 ###### 1 - (WEB) Créer une application web hautement disponible et pouvant être mise à l'échelle
